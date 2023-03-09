@@ -1,0 +1,219 @@
+[
+    {
+        "coord": {
+            "lon": 151.1564,
+            "lat": -33.9106
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 299.89,
+            "feels_like": 299.83,
+            "temp_min": 298.36,
+            "temp_max": 300.92,
+            "pressure": 998,
+            "humidity": 40
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 10.29,
+            "deg": 280
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1670822327,
+        "sys": {
+            "type": 1,
+            "id": 9600,
+            "country": "AU",
+            "sunrise": 1670783876,
+            "sunset": 1670835596
+        },
+        "timezone": 39600,
+        "id": 7839750,
+        "name": "Marrickville",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 151.285,
+            "lat": -33.7958
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 299.82,
+            "feels_like": 299.82,
+            "temp_min": 298.8,
+            "temp_max": 300.87,
+            "pressure": 999,
+            "humidity": 41
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 10.29,
+            "deg": 280
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1670822494,
+        "sys": {
+            "type": 2,
+            "id": 2032552,
+            "country": "AU",
+            "sunrise": 1670783863,
+            "sunset": 1670835547
+        },
+        "timezone": 39600,
+        "id": 2158867,
+        "name": "Manly",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 151.78,
+            "lat": -32.93
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 298.46,
+            "feels_like": 298.8,
+            "temp_min": 295.11,
+            "temp_max": 300.09,
+            "pressure": 1000,
+            "humidity": 67
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1670822282,
+        "sys": {
+            "type": 2,
+            "id": 2009631,
+            "country": "AU",
+            "sunrise": 1670783880,
+            "sunset": 1670835293
+        },
+        "timezone": 39600,
+        "id": 2155472,
+        "name": "Newcastle",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 146.0374,
+            "lat": -34.2883
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.21,
+            "feels_like": 293.26,
+            "temp_min": 294.21,
+            "temp_max": 294.21,
+            "pressure": 1006,
+            "humidity": 34
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.79,
+            "deg": 248,
+            "gust": 11.18
+        },
+        "clouds": {
+            "all": 13
+        },
+        "dt": 1670822671,
+        "sys": {
+            "type": 2,
+            "id": 56833,
+            "country": "AU",
+            "sunrise": 1670785045,
+            "sunset": 1670836886
+        },
+        "timezone": 39600,
+        "id": 2164422,
+        "name": "Griffith",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 148.6659,
+            "lat": -33.5661
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.47,
+            "feels_like": 294.38,
+            "temp_min": 295.47,
+            "temp_max": 295.47,
+            "pressure": 1003,
+            "humidity": 24,
+            "sea_level": 1003,
+            "grnd_level": 968
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 10.46,
+            "deg": 271,
+            "gust": 16.16
+        },
+        "clouds": {
+            "all": 59
+        },
+        "dt": 1670822777,
+        "sys": {
+            "country": "AU",
+            "sunrise": 1670784528,
+            "sunset": 1670836140
+        },
+        "timezone": 39600,
+        "id": 2172453,
+        "name": "Canowindra",
+        "cod": 200
+    }
+]
